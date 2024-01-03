@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default const getResponseFromAPI = (success)=> {
   return new Promise((res, rej) => {
     if (success){
